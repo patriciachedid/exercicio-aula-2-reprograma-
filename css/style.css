@@ -1,0 +1,11 @@
+*
+.about-img{
+    width: 80%; 
+    margin: 8rem
+}
+
+@media(max-width: 768px){
+    .about-img{
+        margin: -11rem;
+    }
+}
